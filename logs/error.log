@@ -1,0 +1,4 @@
+[Tue Apr 10 13:11:13.045377 2018] [ssl:warn] [pid 14270] AH01906: euler.ioe:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 10 13:11:13.045386 2018] [ssl:warn] [pid 14270] AH01909: euler.ioe:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 10 13:11:13.067550 2018] [ssl:warn] [pid 14271] AH01906: euler.ioe:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 10 13:11:13.067557 2018] [ssl:warn] [pid 14271] AH01909: euler.ioe:443:0 server certificate does NOT include an ID which matches the server name
