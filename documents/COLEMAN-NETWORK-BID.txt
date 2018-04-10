@@ -1,0 +1,33 @@
+	EULER PREP					
+	NETWORK BID					
+				TOTAL BID =	2$9554	
+GROUP	ITEM	DESCRIPTION	NUMBER 	COST	TOTAL	LINK
+CLIENT	MOTHERBOARD	GIGABYTE H370 HD3 LGA 1151 (300 Series)	25	100	2500	https://www.newegg.com/Product/Product.aspx?Item=N82E16813145068
+	PROCESSOR	Intel Core i5-7600K Kaby Lake Quad-Core 3.8 GHz LGA 1151 91W BX80677I57600K Desktop Processor 	25	220	5500	NEWEGG
+	CASE 	Corsair Carbide Series 200R Black Steel / Plastic Compact ATX Mid Tower Case 	25	60	1500	NEWEGG
+	RAM	CORSAIR Vengeance LPX 16GB 288-Pin DDR4 SDRAM DDR4 2666 (PC4 21300) Desktop Memory Model CMK16GX4M1A2666C16 	25	182	4550	NEWEGG
+	POWER	CORSAIR VS Series VS600 (CP-9020119-NA) 600W ATX12V / EPS12V 80 PLUS Certified Active PFC Power Supply 	25	55	1375	NEWEGG
+				617	 	15425
+	HARDDRIVE	HARDDRIVE	50	46	2300	NEWEGG
+	KEYBOARD	Logitech K120 Black USB Wired Standard Keyboard - FR 	25	22	550	
+	MOUSE	Logitech M90 1000DPI Wired Corded Optical USB Mouse For Both Left/Right Hands - Black	25	11	275	
+	MONITOR	ASUS VS248H-P Black 24" 2ms (GTG) HDMI Widescreen LED Backlight LCD Monitor 250 cd/m2 ASCR 50,000,000:1 	25	135	3375	
+					 	
+SERVER	SERVERS	Dell PowerEdge R230 - rack-mountable - Xeon E3-1220V6 3 GHz - 8 GB - 1 TB 	2	802	1604	
+	HARDDRIVES 2TB	HGST Ultrastar 7K3000 HUA723020ALA640 (0F12455) 2TB 7200 RPM 64MB Cache SATA 6.0Gb/s 3.5" Enterprisel Hard 	6	150	900	
+		 				
+	POWER BACKUP	Tripp Lite SMART2200RMXL2U 2200VA 1920W UPS Smart Rackmount AVR LCD 120V USB DB9 SNMP 2URM, 8 Outlets 	1	800	800	
+TV	70" NEC 	https://www.cdwg.com/product/NEC-E705-70-LED-Display/3558112?pfm=srh	1	2850	2850	CDWG
+						
+	WAP POE	Ubiquiti Networks UAP-AC-LR-US 802.11ac Long Range Access Point 	2	100	200	
+	ROUTER	Ubiquiti ERPOE-5-US EdgeRouter PoE Advanced 5-Port Router 	1	165	165	
+LAYER 3	SWITCHES	Ubiquiti Networks US-24-US Managed Gigabit Switches with SFP 	1	210	210	
+	CAMERAS	Ubiquiti UVC-G3-DOME-5 Video Camera with Wide-Angle lens and 1080p Video Solution-5 Pack 	1	600	600	
+	FIREWALL	UBNT Enterprise Gateway Router with Gigabit Ethernet	1	300	300	
+						
+	 	DELL C LIENT	 	 	 	
+CLIENT	DELL	Dell XPS Desktop Black- 8th Gen i5- Radeon RX 560 - 1TB HDD- 8GB RAM 	25	800	20000	
+						
+						
+						
+	CAT6 	BYTECC C6E-1000G 1000 ft. Cat 6 Green Bulk Cable 	1	110		
